@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://tagma067001068.github.io</id>
     <title>ё 滴水堂</title>
-    <updated>2023-03-13T03:18:27.014Z</updated>
+    <updated>2023-03-13T03:33:35.258Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://tagma067001068.github.io"/>
     <link rel="self" href="https://tagma067001068.github.io/atom.xml"/>
@@ -16,15 +16,15 @@
         <link href="https://tagma067001068.github.io/post/hello-gridea/">
         </link>
         <updated>2018-12-11T16:00:00.000Z</updated>
-        <summary type="html"><![CDATA[<p>👏  欢迎光临ё 滴水堂 ！<br>
-✍️  <strong>ё 滴水堂</strong> 一个基于github的静态博客。用于记录的生活、心情、知识、笔记、创意... ...</p>
+        <summary type="html"><![CDATA[<p>👏  欢迎光临 <a href="https://www.lear.gw.to">ё 滴水堂</a>  ！<br>
+✍️  **<a href="https://www.lear.gw.to">ё 滴水堂</a> ** 一个基于github的静态博客。用于记录的生活、心情、知识、笔记、创意... ...</p>
 ]]></summary>
-        <content type="html"><![CDATA[<p>👏  欢迎光临ё 滴水堂 ！<br>
-✍️  <strong>ё 滴水堂</strong> 一个基于github的静态博客。用于记录的生活、心情、知识、笔记、创意... ...</p>
+        <content type="html"><![CDATA[<p>👏  欢迎光临 <a href="https://www.lear.gw.to">ё 滴水堂</a>  ！<br>
+✍️  **<a href="https://www.lear.gw.to">ё 滴水堂</a> ** 一个基于github的静态博客。用于记录的生活、心情、知识、笔记、创意... ...</p>
 <!-- more -->
 <p><a href="https://github.com/tagma067001068/">Github</a><br>
 <a href="https://www.lear.gw.to">ё 滴水堂 主页</a></p>
-<h2 id="特性">特性👇</h2>
+<h2 id="gridea-特性">Gridea 特性👇</h2>
 <p>📝  你可以使用最酷的 <strong>Markdown</strong> 语法，进行快速创作</p>
 <p>🌉  你可以给文章配上精美的封面图和在文章任意位置插入图片</p>
 <p>🏷️  你可以对文章进行标签分组</p>
